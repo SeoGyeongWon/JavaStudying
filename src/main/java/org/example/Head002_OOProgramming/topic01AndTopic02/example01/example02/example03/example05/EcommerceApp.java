@@ -1,6 +1,6 @@
-package org.example.Head002_OOProgramming.example05;
+package org.example.Head002_OOProgramming.topic01AndTopic02.example01.example02.example03.example05;
 
-import static org.example.Head002_OOProgramming.example05.Utility.applyDiscount;
+import static org.example.Head002_OOProgramming.topic01AndTopic02.example01.example02.example03.example05.Utility.applyDiscount;
 
 public class EcommerceApp {
   public static void main(String[] args) {
