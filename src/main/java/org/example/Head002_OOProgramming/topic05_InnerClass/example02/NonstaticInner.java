@@ -5,7 +5,7 @@ public class NonstaticInner {
   ///  비정적 내부 클래스를 사용하기 위해서 외부 클래스의 객체부터 생성
     Outer outer =new Outer();
     Outer.Inner inner =  outer. new Inner();
-    inner.printInstanceValue();;
+    inner.printInstanceValue();
   }
 }
 class Outer{
